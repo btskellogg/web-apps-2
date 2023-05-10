@@ -1,5 +1,5 @@
 # enter prompt for ChatGPT
-prompt = "write a short rhyming ode to tacos"
+prompt = "write a haiku about tacos"
 
 # OpenAI api key:
 access_token = ENV.fetch("OPENAI_ACCESS_TOKEN")
