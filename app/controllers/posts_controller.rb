@@ -16,4 +16,5 @@ class PostsController < ApplicationController
     # save Post row
     # redirect user
   end
+  
 end

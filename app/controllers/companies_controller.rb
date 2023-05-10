@@ -38,4 +38,5 @@ class CompaniesController < ApplicationController
   #   # destroy Company row
   #   # redirect user
   # end
+  
 end

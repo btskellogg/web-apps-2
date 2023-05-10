@@ -1,8 +1,7 @@
 class TacosController < ApplicationController
 
   def index
-
-    # render :template => "tacos/index"
+    # render tacos/index view
   end
 
 end
